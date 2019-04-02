@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-website-copy",
+  "version": "1.0.0",
+  "description": "My Portfolio Website On Git",
+  "homepage": "https://brit-starks.github.io/Portfolio-Website-copy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Brittney Thomas",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
